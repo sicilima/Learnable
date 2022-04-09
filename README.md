@@ -29,6 +29,8 @@ Learnable brings a new twist to learning management systems. It takes all of the
 
 
 ## [📽️ Demo Video](https://youtu.be/PJk_fbyTbYE)
+## [📽️ Testing Video 1](https://youtu.be/68OxDreZDS8)
+## [📽️ Testing Video 2](https://youtu.be/xamlTvOK1X8)
 
 ## 💡 Future Planning
 - External Calendar Integratiton
